@@ -1,2 +1,2 @@
 # bookbot
-My first project in boot.dev and github!
+my first project in boot.dev and github!
